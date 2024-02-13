@@ -209,7 +209,7 @@ body {
   font-size: 14px;
   text-transform: uppercase;
   margin: 20px;
-  margin-top: 100px;
+  margin-top: 50px;
   padding: 10px;
   line-height: 2em;
   text-decoration: none;
@@ -228,7 +228,7 @@ body {
   font-family: cursive;
   color: #ff8911;
   font-size: 70px;
-  margin: 150px;
+  margin: 1px;
 }
 
 /* Media queries for smaller screens (cellphone) */
