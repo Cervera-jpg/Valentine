@@ -10,12 +10,12 @@
 
 .valentine {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 5px;
 }
 
-/* Media queries for smaller screens */
+/* Media queries for smaller screens (cellphone) */
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .reset {
     display: flex;
     justify-content: center;
