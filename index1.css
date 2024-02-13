@@ -1,0 +1,33 @@
+/* Default styles */
+
+.reset {
+  text-align: center;
+}
+
+.reset button {
+  margin: 0 10px;
+}
+
+.valentine {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Media queries for smaller screens */
+
+@media (max-width: 768px) {
+  .reset {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .reset button {
+    margin: 5px;
+  }
+
+  .valentine {
+    margin-top: 10px;
+  }
+}
